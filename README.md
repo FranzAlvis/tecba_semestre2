@@ -1,3 +1,4 @@
-# tecba_semestre2
-Materia: diseño y desarrollo web I
+# TECBA_SEMESTRE 2
+Materia: Diseño y Desarrollo Web I
+
 Nombre Completo:  Franz Reinaldo Alvis Cornejo
